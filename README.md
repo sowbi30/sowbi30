@@ -5,8 +5,8 @@
             }
             to {
                 opacity: 1;
-                transform: translateX(0);</style>
-            }<h1>### 👋 Hi there, this is Sowbi 🚀</h1>
+                transform: translateX(0);   }</style>
+         <h1>### 👋 Hi there, this is Sowbi 🚀</h1>
 
 
 🚀 Full Stack MERN Developer in the Making 🌐 | Passionate about Crafting Digital Experiences
