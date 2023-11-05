@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html lang="en">
 <head>
-
+<body>
         h1 {
             animation: wave 2s infinite;
             display: inline-block;
