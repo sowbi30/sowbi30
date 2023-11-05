@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sowbaranika Eswari</h1>
-<h3 align="center">A passionate MERN Full-Stackdeveloper from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN STACK AT GUVI**
 
