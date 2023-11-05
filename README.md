@@ -1,18 +1,6 @@
  <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        @keyframes wave {
-            0%, 100% {
-                transform: translateY(0);
-            }
-            25%, 75% {
-                transform: translateY(-10px);
-            }
-            50% {
-                transform: translateY(5px);
-            }
-        }
 
         h1 {
             animation: wave 2s infinite;
