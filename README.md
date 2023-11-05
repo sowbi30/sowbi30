@@ -1,4 +1,4 @@
-![logo](https://github.com/sowbi30/sowbi30/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Sowbaranikka Eswari</h1>
 <h3 align="center">A passionate MERN Full-Stackdeveloper from India</h3>
 
