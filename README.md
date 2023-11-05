@@ -1,15 +1,9 @@
  <!DOCTYPE html>
 <html lang="en">
 <head>
-<body>
-        h1 {
-            animation: wave 2s infinite;
-            display: inline-block;
-        }
-    </style>
 </head>
 <body>
-    <h1>👋 Hi there, this is Sowbi 🚀</h1>
+    <h1 style="animation: wave 2s infinite; display: inline-block"> 👋 Hi there, this is Sowbi 🚀</h1>
 </body>
 </html>
 
