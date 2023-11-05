@@ -1,4 +1,12 @@
-<h1>### 👋 Hi there, this is Sowbi 🚀</h1>
+  <style>@keyframes moveIn {
+            from {
+                opacity: 0;
+                transform: translateX(100%);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);</style>
+            }<h1>### 👋 Hi there, this is Sowbi 🚀</h1>
 
 
 🚀 Full Stack MERN Developer in the Making 🌐 | Passionate about Crafting Digital Experiences
