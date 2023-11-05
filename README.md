@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sowbaranikka Eswari</h1>
 <h3 align="center">A passionate MERN Full-Stackdeveloper from India</h3>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **MERN STACK AT GUVI**
+
+- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2766433/screenshots/5532542/lady_desktop_prep_bkg_v01.gif"
 
 - 📫 How to reach me **sati.sow@gmail.com**
 
