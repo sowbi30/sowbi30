@@ -1,12 +1,30 @@
-  <style>@keyframes moveIn {
-            from {
-                opacity: 0;
-                transform: translateX(100%);
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        @keyframes wave {
+            0%, 100% {
+                transform: translateY(0);
             }
-            to {
-                opacity: 1;
-                transform: translateX(0);   }</style>
-         <h1>### 👋 Hi there, this is Sowbi 🚀</h1>
+            25%, 75% {
+                transform: translateY(-10px);
+            }
+            50% {
+                transform: translateY(5px);
+            }
+        }
+
+        h1 {
+            animation: wave 2s infinite;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>👋 Hi there, this is Sowbi 🚀</h1>
+</body>
+</html>
+
 
 
 🚀 Full Stack MERN Developer in the Making 🌐 | Passionate about Crafting Digital Experiences
